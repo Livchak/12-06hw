@@ -101,5 +101,6 @@ networks:
 В случае отказа связи с центральным сервером, могут временно переходить в режим master для обеспечения непрерывности локальных операций, но с ограниченными возможностями (например, без возможности обновления каталога книг).
 
 ---
+[Диаграмма шардинга БД Bookinist drawio](./bookinist.drawio)
 
-![bookinist drawio diagram](img/bookinist.drawio)
+![bookinist drawio diagram](img/bookinist.svg)
